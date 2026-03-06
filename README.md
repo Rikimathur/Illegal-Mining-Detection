@@ -12,8 +12,6 @@ Automated satellite pipeline to detect **349 suspected illegal mining clusters**
 
 ## 🔄 Workflow
 
-<!-- Upload workflow diagram: drag & drop image into GitHub issue → copy URL → paste below -->
-<!-- Replace the placeholder below with your actual workflow image URL -->
 
 ```
 [ Sentinel-2 Acquisition ]
@@ -29,16 +27,13 @@ Automated satellite pipeline to detect **349 suspected illegal mining clusters**
 [ Risk Classification → Output ]
 ```
 
-> 📷 **Add workflow diagram:**
-> Go to any GitHub Issue → drag & drop your image → copy the generated URL → replace this block
-
 ---
 
 ## 🗺️ Results
 
 ### Risk Map
 <!-- Replace URL below after uploading figure1_risk_map.png -->
-![Risk Map](assets/figure1_risk_map.png)
+![Risk Map](figure1_risk_map.png)
 *Mean NDVI · Anomaly Score · Confirmed Mining Clusters*
 
 ---
