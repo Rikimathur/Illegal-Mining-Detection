@@ -40,21 +40,21 @@ Automated satellite pipeline to detect **349 suspected illegal mining clusters**
 
 ### NDVI Time-Series
 <!-- Replace URL below after uploading figure2_timeseries.png -->
-![Time Series](assets/figure2_timeseries.png)
+![Time Series](figure2_timeseries.png)
 *Normal land (stable) vs Mining zones (abrupt NDVI collapse ~Q3 2023)*
 
 ---
 
 ### Before / After (2019 vs 2024)
 <!-- Replace URL below after uploading figure3_before_after.png -->
-![Before After](assets/figure3_before_after.png)
+![Before After](figure3_before_after.png)
 *Red = vegetation loss · Blue = vegetation gain*
 
 ---
 
 ### Feature Distributions
 <!-- Replace URL below after uploading figure4_feature_distributions.png -->
-![Features](assets/figure4_feature_distributions.png)
+![Features](figure4_feature_distributions.png)
 *6 discriminating features: Mining zones vs Normal land*
 
 ---
